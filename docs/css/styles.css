@@ -1,0 +1,9 @@
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 150px 1fr;
+}
